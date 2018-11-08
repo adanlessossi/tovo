@@ -1,0 +1,4 @@
+aws cognito-idp admin-confirm-sign-up \
+   --region eu-central-1 \
+   --user-pool-id YOUR_COGNITO_USER_POOL_ID \
+   --username adanlessossi@hotmail.com
